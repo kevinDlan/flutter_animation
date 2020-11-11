@@ -1,8 +1,8 @@
 class Trip{
   final String title;
   final String price;
-  final String nights;
+  final String night;
   final String img;
 
-  Trip({ this.title, this.price, this.nights, this.img });
+  Trip({ this.title, this.price, this.night, this.img });
 }
